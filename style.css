@@ -1,0 +1,11 @@
+.Front {
+    background-image: url('./bk_image.jpg');
+    height: 700px;  
+}
+.logo {
+    width: 150px;
+    height: 60px;
+}
+.navbar {
+    padding: 0;
+}
